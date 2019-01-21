@@ -5,7 +5,7 @@ During developing the modeling environment, the following technology stack was u
 
 •	Programming Language – С++;
 
-•	Computer Vision Library – OpenCV (3.4.3);
+•	Computer Vision Library – OpenCV (3.4.1);
 
 •	Cross-Platform Framework – Qt (5.9).
 
